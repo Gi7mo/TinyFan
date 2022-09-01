@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -382,8 +382,14 @@
           "+12V",
           "+24V",
           "+5V",
+          "AUX1GND",
+          "AUX1MPWR",
           "AUX1PWR",
+          "AUX2GND",
+          "AUX2MPWR",
           "AUX2PWR",
+          "AUX3GND",
+          "AUX3MPWR",
           "AUX3PWR",
           "FAN1PWR",
           "FAN2PWR",

@@ -11,18 +11,18 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 7)
+    (start_pass_no 15)
     (layer_rule F.Cu
-      (active on)
-      (preferred_direction horizontal)
-      (preferred_direction_trace_costs 1.0)
-      (against_preferred_direction_trace_costs 2.1)
-    )
-    (layer_rule B.Cu
       (active on)
       (preferred_direction vertical)
       (preferred_direction_trace_costs 1.0)
-      (against_preferred_direction_trace_costs 1.9)
+      (against_preferred_direction_trace_costs 2.0)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.0)
     )
   )
   (rule
@@ -60,8 +60,9 @@
   )
   (class default
     +3V3 FAN4RPM FAN3RPM FAN2RPM FAN1RPM FAN4PWM FAN3PWM FAN2PWM
-    FAN1PWM AUX1RPM AUX2RPM AUX3RPM AUX1PWM AUX2PWM AUX3PWM +5VA
-    "Net-(AUX1-Pad4)" "Net-(AUX2-Pad4)" "Net-(AUX3-Pad4)" "Net-(FAN1-Pad4)" "Net-(FAN2-Pad4)" "Net-(FAN3-Pad4)" "Net-(FAN4-Pad4)"
+    FAN1PWM AUX1DATA AUX2DATA AUX3DATA AUX1PWM AUX2PWM AUX3PWM +5VA
+    "Net-(FAN1-Pad4)" "Net-(FAN2-Pad4)" "Net-(FAN3-Pad4)" "Net-(FAN4-Pad4)" AAUX1 AUX4 AUX5 AUX6
+    AUX7 AUX8
     (clearance_class default)
     (via_rule default)
     (rule
@@ -83,7 +84,8 @@
   )
   (class 5v
     GND +5V +24V +12V FAN1PWR FAN2PWR FAN3PWR FAN4PWR
-    AUX1PWR AUX2PWR AUX3PWR
+    AUX1PWR AUX2PWR AUX3PWR AUX1GND AUX1MPWR AUX2GND AUX3GND AUX2MPWR
+    AUX3MPWR
     (clearance_class 5v)
     (via_rule 5v)
     (rule
