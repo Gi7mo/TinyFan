@@ -10,7 +10,7 @@
 |FAN1 FAN2 FAN3 FAN4                 |4       |Conn_01x04         |C402778 |
 |FAN1PWR1 FAN2PWR1 FAN3PWR1 FAN4PWR1 |4       |Conn_01x03         |C2937625|
 |J1 J2 J3                            |3       |Conn_02x02_Odd_Even|C706892 |
-|J4 J5                               |2       |Conn_01x06_Male    |C962326 |
+|J4 J5                               |2       |Conn_01x06_Male    |C492405 |
 |Q1 Q2 Q3 Q4                         |4       |BSS138             |C52895  |
 |Q8 Q9 Q10                           |3       |wsf3085            |C148428 |
 |R1 R2 R3 R4 R5 R6 R7 R8 R15 R16 R17 |11      |10K                |C144471 |
