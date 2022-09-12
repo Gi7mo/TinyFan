@@ -168,7 +168,7 @@ chain_count: 18
 </details>
 
 ## Notes
-- Many thanks to [Rama](https://github.com/Ramalama2) who came up with the initial idea and supported my a lot
+- Many thanks to [Rama](https://github.com/Ramalama2) who came up with the initial idea and supported me a lot.
 - You can contact me via Discord "Gi7mo!#4618"
 - This readme file contains Amazon Associate, Aliexpress affiliate, PCBWay affiliate links. I make a comission on qualifying purchases.
 - This project does not come with any warranty, if you choose to build/use one, you are doing this at your own risk!
