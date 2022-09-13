@@ -4,7 +4,7 @@
 |Reference                           |Quantity|Value              |LCSC    |Ali|
 |------------------------------------|--------|-------------------|--------|-----|
 |5VIN1 24VIN1                        |2       |Conn_01x02         |C475092 |[Link](https://s.click.aliexpress.com/e/_DC1TC2L)|
-|AUX1 AUX2 AUX3                      |3       |Conn_01x03         |C144394 |[Link](https://s.click.aliexpress.com/e/_DkPEayP)|
+|AUX1 AUX2 AUX3                      |3       |Conn_01x03         |C144394 |[Link](https://s.click.aliexpress.com/e/_DEyuBIn)|
 |AUX1PWR1 AUX2PWR1 AUX3PWR1          |3       |Conn_02x03_Odd_Even|C492420 |[Link](https://s.click.aliexpress.com/e/_DDO0FkL)|
 |C1 C2                               |2       |10pF               |C107172 |[Link](https://s.click.aliexpress.com/e/_DkweKyn)|
 |FAN1 FAN2 FAN3 FAN4                 |4       |Conn_01x04         |C402778 |   |
