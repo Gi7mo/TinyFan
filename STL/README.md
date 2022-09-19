@@ -13,5 +13,5 @@
 - Default Voron settings, correct orientation, no supports needed!
 
 ## BOM:
-![](../Images/TinyFan_Extrusionl_BOM.jpg)
+![](../Images/TinyFan_Extrusion_BOM.jpg)
 ![](../Images/TinyFan_Dinrail_BOM.jpg)
