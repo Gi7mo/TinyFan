@@ -63,11 +63,7 @@
   <pre>[fan_generic tinyfan_fan1]<br>pin: tinyfan:FAN1_PWM<br>tachometer_pin: ^tinyfan:FAN1_RPM<br>hardware_pwm: true<br>cycle_time: 0.00004<br><br>[fan_generic tinyfan_fan2]<br>pin: tinyfan:FAN2_PWM<br>tachometer_pin: ^tinyfan:FAN2_RPM<br>hardware_pwm: true<br>cycle_time: 0.00004<br><br>[fan_generic tinyfan_fan3]<br>pin: tinyfan:FAN3_PWM<br>tachometer_pin: ^tinyfan:FAN3_RPM<br>hardware_pwm: true<br>cycle_time: 0.00004<br><br>[fan_generic tinyfan_fan4]<br>pin: tinyfan:FAN4_PWM<br>tachometer_pin: ^tinyfan:FAN4_RPM<br>hardware_pwm: true<br>cycle_time: 0.00004</pre>
  </details>
  • Be aware that the 12V rail is only capable of a max of 1.5A<br>• Aux1, Aux2 and Aux3 are more versatile
- <details>
-  <summary><h4>Adding more Thermistors</h></summary>
-  <p align="center"><img width="auto" src="../Images/AUX1_THERMISTOR.png"></p>
-  <pre>[temperature_sensor aux1]<br>sensor_type: Generic 3950<br>sensor_pin: tinyfan:AUX1_RPM</pre>
- </details>
+<s>Adding more Thermistors</s>
  <details>
   <summary><h4>Driving more 5V, 12V and 24V Fans</h></summary>
   <p align="center"><img width="auto" src="../Images/AUX1_FAN_MOSFET.png"></p>
