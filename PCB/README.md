@@ -26,6 +26,9 @@ Additional a [RP2040-Zero](https://s.click.aliexpress.com/e/_DFCoOxH)
 - Order the pcb at e.g. [pcbway](https://www.pcbway.com/project/shareproject/Voron_TinyFan_Adapter_1928b94a.html) or [jlcpcb](https://jlcpcb.com/)
 - Order the parts at e.g. [lcsc](https://www.lcsc.com/)
 
+**ATTENTION**<br>
+The LDO is flipped in the image, please don't mount it with the fin outward the pcb<br>
+it must be mounted inward, so 180° flipped to shown in the image
 - ![PCB](../Images/Render1.jpg)
 
 ## Notes
