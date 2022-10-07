@@ -9,6 +9,9 @@
 |---|---|---|
 <br>
 
+**ATTENTION**<br>
+The LDO is flipped in the image, please don't mount it with the fin outward the pcb<br>
+it must be mounted inward, so 180° flipped to shown in the image
 ![PCB](./Images/Render1.jpg)
 <br>
 
