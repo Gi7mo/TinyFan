@@ -1,4 +1,4 @@
-# TinyFan
+# Klipper TinyFan
 
 
 ### Navigation:
